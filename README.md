@@ -16,7 +16,17 @@
 ・WS2812 RGB LEDストリップによる風力レベルの表示
 ・単色LEDで温度と距離が条件内か条件外かがわかる。
 
-## 2. 使用部品とピン
+## 2. 仕様書
+
+### 配線図と回路図（イメージ）
+
+- **配線図**
+![kairozu3](https://github.com/user-attachments/assets/535482ab-0be9-41da-91c5-92a74b3dbd3b)
+
+- **回路図**
+![kairozu2](https://github.com/user-attachments/assets/1987827f-4dae-46de-b1f4-49bc0714d0b7)
+
+### 使用部品とピン
 
 |部品名|用途|接続ピン|
 |----|---|--------|
