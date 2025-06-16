@@ -210,7 +210,7 @@ void loop() {
 
   // キーパッドのイベントがあれば取得
   while (keypad.available()) {
-    keypad_event evt = keypad.read();
+    keypadEvent evt = keypad.read();  // ← ここを修正（keypad_event → keypadEvent）
     if (evt.bit.EVENT == KEY_JUST_PRESSED) {
       char key = evt.bit.KEY;
       if (key == 'A') {
@@ -237,4 +237,3 @@ void loop() {
 
   delay(200);  // 更新間隔
 }
-
