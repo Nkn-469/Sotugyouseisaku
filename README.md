@@ -1,5 +1,9 @@
 
+
+
 ```mermaid
+graph TD
+  A --> B
 ```
 
 # kmk卒業制作
