@@ -1,4 +1,8 @@
 
+```mermaid
+flowchart TD
+```
+
 # kmk卒業制作
 
 ---
