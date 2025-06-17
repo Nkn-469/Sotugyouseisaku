@@ -21,11 +21,11 @@
 ### 配線図と回路図（イメージ）
 
 - **配線図**</br>
-![kairozu5](https://github.com/user-attachments/assets/f4c7bb65-2719-4ba0-8ae3-6540e1238e94)
-
+![kmksotu_ブレッドボード](https://github.com/user-attachments/assets/604b2fe2-ee7b-4aa2-8687-860a6dd609dd)
 
 - **回路図**</br>
-![kairozu2](https://github.com/user-attachments/assets/1987827f-4dae-46de-b1f4-49bc0714d0b7)
+![kairozu2_回路図](https://github.com/user-attachments/assets/8ceb7a8a-7c55-4a44-939b-a129c7b251fe)
+
 
 ### 使用部品とピン
 
