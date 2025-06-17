@@ -150,11 +150,10 @@ flowchart TD
 - 手動操作との切り替え対応を入れたことで例外なときでも対応しやすいように柔軟に変化可能
 - 風力レベルの段階設定を2℃刻みに調整することで急激な風力の変化を防いでいる。
 
-### 動作の様子とコード
-
+### QR
 
 **動作の様子とコード入り**</br>
-![QR_052308](https://github.com/user-attachments/assets/28835c12-eac2-49db-b8de-78a68eb41bc9)</br>
+![QR_0617](https://github.com/user-attachments/assets/ac8745a9-38a9-4f2d-80e8-78a0547ae490)</br>
 https://nkn-469.github.io/my-videoandcode-page/
 
 ### 作るときに参考にしたサイト一覧
