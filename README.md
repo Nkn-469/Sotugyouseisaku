@@ -152,29 +152,30 @@ flowchart TD
 
 ### QRコード
 
-**動作の様子とコード入り**</br>
+- **動作の様子とコード入り**</br>
 ![QR_0617](https://github.com/user-attachments/assets/ac8745a9-38a9-4f2d-80e8-78a0547ae490)</br>
-- QRコードの[URL](https://nkn-469.github.io/my-videoandcode-page/)
+ QRコードのURL</br>(https://nkn-469.github.io/my-videoandcode-page/)</br>
+- QRコードのGit Hub</br>(https://github.com/Nkn-469/my-videoandcode-page)</br>
 
 ### 作るときに参考にしたサイト一覧
 
-- [基本プロジェクトサーミスタ](https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/02_basic_thermistor.html)
+- 基本プロジェクトサーミスタ</br>(https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/02_basic_thermistor.html)</br>
 
-- [基本プロジェクト超音波](https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/06_basic_ultrasonic_sensor.html)
+- 基本プロジェクト超音波</br>(https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/06_basic_ultrasonic_sensor.html)</br>
 
-- [基本プロジェクトLEDモジュール](https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/10_basic_led.html)
+- 基本プロジェクトLEDモジュール</br>(https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/10_basic_led.html)</br>
 
-- [基本プロジェクトWS2812 RGB LEDストリップ](https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/12_basic_ws2812.html)
+- 基本プロジェクトWS2812 RGB LEDストリップ</br>(https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/12_basic_ws2812.html)</br>
 
-- [基本プロジェクトOLED](https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/15_basic_oled.html)
+- 基本プロジェクトOLED</br>(https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/15_basic_oled.html)</br>
 
-- [基本プロジェクトキーパッド](https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/21_basic_keypad.html)
+- 基本プロジェクトキーパッド</br>(https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/21_basic_keypad.html)</br>
 
-- [基本プロジェクトモーター](https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/24_basic_motor.html)
+- 基本プロジェクトモーター</br>(https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/24_basic_motor.html)</br>
 
-- [楽しいプロジェクト光敏アレイ](https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/fun_projects/04_fun_light_array.html)
+- 楽しいプロジェクト光敏アレイ</br>(https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/fun_projects/04_fun_light_array.html)</br>
 
-- [楽しいプロジェクトスマートファン](https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/fun_projects/06_fun_smart_fan.html)
+- 楽しいプロジェクトスマートファン</br>(https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/fun_projects/06_fun_smart_fan.html)</br>
 
-- [Project Hub](https://projecthub.arduino.cc/ambhatt/temperature-controlled-fan-with-lcd-using-arduino-ac0231)
+- Project Hub</br>(https://projecthub.arduino.cc/ambhatt/temperature-controlled-fan-with-lcd-using-arduino-ac0231)</br>
 
