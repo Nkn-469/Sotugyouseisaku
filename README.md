@@ -3,6 +3,11 @@
 
 ---
 
+**動作の様子とコード入り**</br>
+![QR_052308](https://github.com/user-attachments/assets/28835c12-eac2-49db-b8de-78a68eb41bc9)</br>
+https://nkn-469.github.io/my-videoandcode-page/
+
+
 ## 1. 概要
 
 今回作った（タイトル）は温度と距離で自動的に風力を制御するもので、LED,OLEDディスプレイを使い、リアルタイムで見て状態が分かりやすく、さらにキーパットを入れることで手動にも変更可能となっている。
