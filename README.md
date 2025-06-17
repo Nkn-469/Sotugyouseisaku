@@ -38,7 +38,7 @@
 |WS2812 RGB LEDストリップ|風力表示 | DO : D4 </br>VCC : 5V </br>GND : GND |
 |OLEDディスプレイモジュール|情報表示|SDA : SDA</br>SCK : SCL</br>VDD : 5V</br>GND : GND|
 |4x4キーパッド|入力操作|行 : D8–D11 </br> 列 : A1–A3, D12|
-|Arduino UNO R4 wifi|中心制御＋通信|USBケーブル|
+|Arduino UNO R4 wifi|制御＋通信|USBケーブル|
 
 ## 3. 動作仕様書
 
