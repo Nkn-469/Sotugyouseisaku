@@ -3,11 +3,6 @@
 
 ---
 
-**動作の様子とコード入り**</br>
-![QR_052308](https://github.com/user-attachments/assets/28835c12-eac2-49db-b8de-78a68eb41bc9)</br>
-https://nkn-469.github.io/my-videoandcode-page/
-
-
 ## 1. 概要
 
 今回作った（タイトル）は温度と距離で自動的に風力を制御するもので、LED,OLEDディスプレイを使い、リアルタイムで見て状態が分かりやすく、さらにキーパットを入れることで手動にも変更可能となっている。
@@ -153,6 +148,13 @@ flowchart TD
 - OLEDディスプレイに温度・距離・風力・モードをリアルタイム表示したり、LEDの明るさを変化させることで状態を理解しやすいようにした
 - 手動操作との切り替え対応を入れたことで例外なときでも対応しやすいように柔軟に変化可能
 - 風力レベルの段階設定を2℃刻みに調整することで急激な風力の変化を防いでいる。
+
+### 動作の様子とコード
+
+
+**動作の様子とコード入り**</br>
+![QR_052308](https://github.com/user-attachments/assets/28835c12-eac2-49db-b8de-78a68eb41bc9)</br>
+https://nkn-469.github.io/my-videoandcode-page/
 
 ### 作るときに参考にしたサイト一覧
 
