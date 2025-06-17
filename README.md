@@ -1,11 +1,4 @@
 
-
-
-```mermaid
-graph TD
-  A --> B
-```
-
 # kmk卒業制作
 
 ---
@@ -47,6 +40,41 @@ graph TD
 |Arduino UNO R4 wifi|マイコン|USBケーブル|
 
 ## 3. 動作仕様書
+
+### フローチャート
+
+```mermaid
+flowchart TD
+  Start --> Init
+  Init --> Loop
+  Loop --> Keypad
+  Loop --> Temp
+  Loop --> Dist
+  Temp --> Wind
+  Dist --> Wind
+  Keypad --> Wind
+  Wind --> LED1
+  Wind --> LED2
+  Wind --> Motor
+  LED1 --> OLED
+  LED2 --> OLED
+  Motor --> OLED
+  OLED --> Wait
+  Wait --> Loop
+
+  Start[開始]
+  Init[初期化（setup）]
+  Loop[メインループ（loop）]
+  Keypad[キー入力処理]
+  Temp[温度取得]
+  Dist[距離取得]
+  Wind[風力レベル決定]
+  LED1[単色LED制御]
+  LED2[NeoPixel LED制御]
+  Motor[モーター制御]
+  OLED[OLED表示更新]
+  Wait[200ms待機]
+```
 
 ### 自動モード
 
