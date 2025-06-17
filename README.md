@@ -124,11 +124,11 @@ flowchart TD
 
 ### 使用ライブラリ
 
-- Adafruit_GFX(https://github.com/adafruit/Adafruit-GFX-Library)
-- Adafruit_SSD1306(https://github.com/adafruit/Adafruit_SSD1306)
-- Adafruit_NeoPixel(https://github.com/adafruit/Adafruit_NeoPixel)
-- Adafruit_Keypad(https://github.com/adafruit/Adafruit_Keypad)
-- Wire.h(https://github.com/arduino/ArduinoCore-avr/tree/master/libraries/Wire)
+- Adafruit_GFX</br>(https://github.com/adafruit/Adafruit-GFX-Library)</br>
+- Adafruit_SSD1306</br>(https://github.com/adafruit/Adafruit_SSD1306)</br>
+- Adafruit_NeoPixel</br>(https://github.com/adafruit/Adafruit_NeoPixel)</br>
+- Adafruit_Keypad</br>(https://github.com/adafruit/Adafruit_Keypad)</br>
+- Wire.h</br>(https://github.com/arduino/ArduinoCore-avr/tree/master/libraries/Wire)</br>
 
 ### ループ処理の流れ（loop）
 
@@ -159,7 +159,7 @@ flowchart TD
 
 ### 作るときに参考にしたサイト一覧
 
-- 基本プロジェクトサーミスタ</br>(https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/02_basic_thermistor.html)</br>
+- 基本プロジェクトサーミスタ(https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/02_basic_thermistor.html)</br>(https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/02_basic_thermistor.html)</br>
 
 - 基本プロジェクト超音波</br>(https://docs.sunfounder.com/projects/elite-explorer-kit/ja/latest/basic_projects/06_basic_ultrasonic_sensor.html)</br>
 
