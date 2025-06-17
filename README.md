@@ -21,7 +21,8 @@
 ### 配線図と回路図（イメージ）
 
 - **配線図**
-![kairozu3](https://github.com/user-attachments/assets/535482ab-0be9-41da-91c5-92a74b3dbd3b)
+![kairozu5](https://github.com/user-attachments/assets/f4c7bb65-2719-4ba0-8ae3-6540e1238e94)
+
 
 - **回路図**
 ![kairozu2](https://github.com/user-attachments/assets/1987827f-4dae-46de-b1f4-49bc0714d0b7)
