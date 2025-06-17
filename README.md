@@ -31,7 +31,7 @@
 
 |部品名|用途|接続ピン|
 |----|---|--------|
-|超音波センサー|距離測定|Tring:D3</br>Echo:D2|
+|超音波センサー|距離測定|Trig:D3</br>Echo:D2|
 |サーミスター+10kΩ|温度測定|A0</br>VCC:5V</br>GND:GND|
 |DCモーター+TA6586 - モータードライバーIC|モーター制御|IN:D7</br>IN:D6</br>VCC:5V</br>GND:GND|
 |単色LED（赤）+330Ω|条件表示 |VCC:D5</br>GND:GND|
