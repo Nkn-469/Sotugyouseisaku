@@ -124,11 +124,11 @@ flowchart TD
 
 ### 使用ライブラリ
 
-- [Adafruit_GFX](https://github.com/adafruit/Adafruit-GFX-Library)
-- [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
-- [Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
-- [Adafruit_Keypad](https://github.com/adafruit/Adafruit_Keypad)
-- [Wire.h](https://github.com/arduino/ArduinoCore-avr/tree/master/libraries/Wire)
+- Adafruit_GFX(https://github.com/adafruit/Adafruit-GFX-Library)
+- Adafruit_SSD1306(https://github.com/adafruit/Adafruit_SSD1306)
+- Adafruit_NeoPixel(https://github.com/adafruit/Adafruit_NeoPixel)
+- Adafruit_Keypad(https://github.com/adafruit/Adafruit_Keypad)
+- Wire.h(https://github.com/arduino/ArduinoCore-avr/tree/master/libraries/Wire)
 
 ### ループ処理の流れ（loop）
 
