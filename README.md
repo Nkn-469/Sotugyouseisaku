@@ -35,7 +35,7 @@
 |サーミスター+10kΩ|温度測定|VCC : 5V</br>GND : A0 : GND|
 |DCモーター+TA6586 - モータードライバーIC|モーター制御|IN : D7</br>IN : D6</br>VCC : 5V</br>GND : GND|
 |単色LED（赤）+330Ω|条件表示 |VCC : D5</br>GND : GND|
-|WS2812 RGB LEDストリップ|風力表示 | DO : D4 </br>VCC : 5V </br>GND : GND |
+|WS2812 RGB LEDストリップ（NeoPixel）|風力表示 | DO : D4 </br>VCC : 5V </br>GND : GND |
 |OLEDディスプレイモジュール|情報表示|SDA : SDA</br>SCK : SCL</br>VDD : 5V</br>GND : GND|
 |4x4キーパッド|入力操作|行 : D8–D11 </br> 列 : A1–A3, D12|
 |Arduino UNO R4 wifi|制御＋通信|USBケーブル|
