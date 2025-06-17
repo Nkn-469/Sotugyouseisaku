@@ -155,7 +155,7 @@ flowchart TD
 - **動作の様子とコード入り**</br>
 ![QR_0617](https://github.com/user-attachments/assets/ac8745a9-38a9-4f2d-80e8-78a0547ae490)</br>
  QRコードのURL</br>(https://nkn-469.github.io/my-videoandcode-page/)</br>
-- QRコードのGit Hub</br>(https://github.com/Nkn-469/my-videoandcode-page)</br>
+ 動作のGit Hub</br>(https://github.com/Nkn-469/my-videoandcode-page)</br>
 
 ### 作るときに参考にしたサイト一覧
 
