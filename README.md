@@ -18,7 +18,7 @@
 
 ## 2. 仕様書
 
-### 配線図と回路図（イメージ）
+### 配線図と回路図</br>（※超音波モジュールをTRRS1、LEDストリップをWS2812b、TA6586モータードライバーICをIC、キーパッドをBUTTONPADで代用している）
 
 - **配線図**</br>
 ![kmksotu_ブレッドボード](https://github.com/user-attachments/assets/604b2fe2-ee7b-4aa2-8687-860a6dd609dd)
