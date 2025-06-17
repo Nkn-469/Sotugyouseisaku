@@ -31,13 +31,13 @@
 
 |部品名|用途|接続ピン|
 |----|---|--------|
-|超音波センサー|距離測定|Trig:D3</br>Echo:D2|
-|サーミスター+10kΩ|温度測定|A0</br>VCC:5V</br>GND:GND|
-|DCモーター+TA6586 - モータードライバーIC|モーター制御|IN:D7</br>IN:D6</br>VCC:5V</br>GND:GND|
-|単色LED（赤）+330Ω|条件表示 |VCC:D5</br>GND:GND|
-|WS2812 RGB LEDストリップ|風力表示 | DO: D4 </br>VCC: 5V </br> GND:GND |
-|OLEDディスプレイモジュール|情報表示|SDA:SDA</br>SCK:SCL</br>VDD:5V</br>GND:GND|
-|4x4キーパッド|入力操作|行: D8–D11 </br> 列: A1–A3, D12|
+|超音波センサー|距離測定|Trig : D3</br>Echo : D2|
+|サーミスター+10kΩ|温度測定|VCC : 5V</br>GND : A0 : GND|
+|DCモーター+TA6586 - モータードライバーIC|モーター制御|IN : D7</br>IN : D6</br>VCC : 5V</br>GND : GND|
+|単色LED（赤）+330Ω|条件表示 |VCC : D5</br>GND : GND|
+|WS2812 RGB LEDストリップ|風力表示 | DO : D4 </br>VCC : 5V </br>GND : GND |
+|OLEDディスプレイモジュール|情報表示|SDA : SDA</br>SCK : SCL</br>VDD : 5V</br>GND : GND|
+|4x4キーパッド|入力操作|行 : D8–D11 </br> 列 : A1–A3, D12|
 |Arduino UNO R4 wifi|マイコン|USBケーブル|
 
 ## 3. 動作仕様書
@@ -139,7 +139,7 @@ flowchart TD
 5. NeoPixel LED更新  
 6. 単色LED更新  
 7. OLEDディスプレイ更新  
-8. 約200msごとに繰り返し
+8. 200msごとに繰り返し
 
 ## 8. 工夫・応用可能性
 
